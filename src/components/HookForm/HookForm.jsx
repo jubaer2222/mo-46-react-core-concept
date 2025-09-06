@@ -11,14 +11,6 @@ const HookForm = () => {
     e.preventDefault();
     console.log('submit',name ,email);
   }
-  const handleSubmit = e =>{
-    e.preventDefault();
-    console.log('submit',name ,email);
-  }
-  const handleSubmit = e =>{
-    e.preventDefault();
-    console.log('submit',name ,email);
-  }
 
   return (
     <div>
